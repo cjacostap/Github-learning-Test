@@ -1,2 +1,2 @@
 print("version 1")
-print()
+print("feature 2")
